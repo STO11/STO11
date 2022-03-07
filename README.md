@@ -15,8 +15,8 @@
 <a title="Ionic" href="https://ionicframework.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/></a>
 <a title="Graphql" href="https://graphql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a>
 <a title="Bootstrap" href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<a title="HTML" href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<a title="CSS" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<a title="HTML" href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<a title="CSS" href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/>
  
   
 
