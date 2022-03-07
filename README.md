@@ -1,9 +1,6 @@
 ## Hello, i'm Suelton Lima ! 
 ### Welcome my GitHub  👋
 
-
-<a title="Contribution updated" href="#" target="_blank"> <img src="https://github.com/STO11/STO11/blob/main/Screen%20Shot%202022-03-06%20at%2023.38.11.png?raw=true" alt="Contribution updated" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <a title="PHP" href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
