@@ -1,6 +1,15 @@
 ## Hello, i'm Suelton Lima ! 
 ### Welcome my GitHub  👋
 
+<br />
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=STO11&show_icons=true&locale=en&layout=compact&langs_count=10&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="jackdomleo7" /></p>
+
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=STO11&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="jackdomleo7" /></p>
+
 <!--
 **STO11/STO11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
