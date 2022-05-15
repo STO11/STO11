@@ -45,7 +45,7 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=STO11&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=prs,issues,contribs" alt="Suelton Lima" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=STO11&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff&hide=prs,issues,contribs&count_private=true" alt="Suelton Lima" /></p>
 
 
 <br />
